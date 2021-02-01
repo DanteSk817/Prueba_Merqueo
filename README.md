@@ -1,2 +1,3 @@
 # Prueba_Merqueo
-Repositorio Postman
+
+Adjunto archivo de Postman con los metodos seleccionados
